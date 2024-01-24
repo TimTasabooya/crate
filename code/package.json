@@ -23,8 +23,9 @@
     "url": "https://github.com/atulmy/crate/issues"
   },
   "homepage": "https://github.com/atulmy/crate#readme",
-  "dependencies": {},
   "devDependencies": {
-    "concurrently": "^4.1.0"
+    "concurrently": "^4.1.0",
+    "cypress": "^13.6.3",
+    "cypress-mochawesome-reporter": "^3.8.0"
   }
 }
